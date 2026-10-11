@@ -230,6 +230,10 @@ footer .copyright {
 .hero-area {
   display: flex;
   justify-content: center;
+  background-image: url("../img/unplugged-retreat.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* Aside*/
@@ -271,6 +275,10 @@ input[type="button"] {
 .features {
   display: flex;
   justify-content: center;
+  background-image: url("../img/unplugged-retreat-features.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .features h2 {
@@ -356,9 +364,9 @@ input[type="button"] {
 }
 
 .faq-content h4 {
-line-height: 1.333;
-
+  line-height: 1.333;
 }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
