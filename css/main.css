@@ -136,7 +136,7 @@ img {
 }
 
 figure {
-margin 0;
+  margin: 0;
 }
 
 address {
@@ -242,7 +242,6 @@ footer .copyright {
 .hero-area h1 {
   font-size: 2.25em;
   line-height: 1.2em;
-
 }
 /* Aside*/
 
@@ -507,6 +506,7 @@ input[type="button"] {
 
 @media only screen and (min-width: 768px) {
   /*Tablet styles here*/
+
   .content-wrapper {
     max-width: 640px;
     margin: 100px 0;
@@ -604,6 +604,11 @@ input[type="button"] {
     width: 45%;
   }
 
+  .map figure {
+    padding: 58.6%;
+
+  }
+
   .contact-section .content-wrapper h2 {
     width: 80%;
   }
@@ -683,6 +688,9 @@ input[type="button"] {
     width: 95%;
   }
 
+  .map figure {
+    padding-bottom: 37.5%;
+  }
   /*-----------------------Faq Page-----------------------------------------*/
 
   .faq h2 {
