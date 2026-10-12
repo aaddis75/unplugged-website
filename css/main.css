@@ -288,6 +288,11 @@ input[type="button"] {
   background-position: center;
 }
 
+.features .fontawesome-icons {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 .features h2 {
   margin-bottom: 60px;
 }
@@ -297,7 +302,7 @@ input[type="button"] {
   margin: 30px 0;
 }
 
-.features .features-item {
+.features .features-items {
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -606,7 +611,6 @@ input[type="button"] {
 
   .map figure {
     padding: 58.6%;
-
   }
 
   .contact-section .content-wrapper h2 {
@@ -643,6 +647,9 @@ input[type="button"] {
     max-width: 960px;
   }
 
+p{
+  font-size: 1.125em;
+}
   /*Header*/
   header {
     padding: 15 px 0;
