@@ -256,6 +256,10 @@ aside {
   background-color: #527158;
 }
 
+aside .h2 {
+  font-size: 1.125em;
+}
+
 aside .form {
   margin-top: 30px;
 }
@@ -579,6 +583,10 @@ input[type="button"] {
     display: flex;
     justify-content: space-between;
   }
+
+.reviews article figure {
+  width: 49%;
+}
 
   .reviews article div {
     width: 49%;
