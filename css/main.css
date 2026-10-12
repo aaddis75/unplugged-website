@@ -220,6 +220,11 @@ footer .social-icons p {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #527158;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
 }
 
 footer .copyright {
