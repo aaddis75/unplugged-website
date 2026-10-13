@@ -256,7 +256,7 @@ aside {
   background-color: #527158;
 }
 
-aside .h2 {
+aside h2 {
   font-size: 1.125em;
 }
 
@@ -391,17 +391,22 @@ input[type="button"] {
   margin: 50px 0 0 0;
 }
 
-.faq h2 {
+.faq h1 {
   margin-bottom: 40px;
   line-height: 1;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 1.875em;
 }
 
 .faq-content {
   margin-bottom: 50px;
 }
 
-.faq-content h4 {
+.faq-content h2 {
+  font-family: "Poppins", sans-serif;
   line-height: 1.333;
+  font-size: 1.125em;
 }
 
 /* ==========================================================================
@@ -623,7 +628,7 @@ input[type="button"] {
   }
 
   .map figure {
-    padding: 58.6%;
+    padding-bottom: 58.6%;
   }
 
   .contact-section .content-wrapper h2 {
@@ -646,7 +651,7 @@ input[type="button"] {
     flex-basis: 45%;
   }
 
-  .faq h2 {
+  .faq h1 {
     width: 100%;
   }
 }
@@ -665,7 +670,7 @@ p{
 }
   /*Header*/
   header {
-    padding: 15 px 0;
+    padding: 15px 0;
   }
 
   /*Hero*/
@@ -713,7 +718,7 @@ p{
   }
   /*-----------------------Faq Page-----------------------------------------*/
 
-  .faq h2 {
+  .faq h1 {
     width: 100%;
   }
 }
