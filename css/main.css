@@ -242,6 +242,7 @@ footer .copyright {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: #202322;
   min-height: 500px;
 }
 .hero-area h1 {
@@ -254,6 +255,7 @@ aside {
   display: flex;
   justify-content: center;
   background-color: #527158;
+  color: #ffffff;
 }
 
 aside h2 {
@@ -295,6 +297,7 @@ input[type="button"] {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: #202322;
 }
 
 .features .fontawesome-icons {
@@ -347,6 +350,7 @@ input[type="button"] {
   display: flex;
   justify-content: center;
   background-color: #527158;
+  color: #ffffff;
 }
 
 .map figure {
@@ -381,6 +385,7 @@ input[type="button"] {
   display: flex;
   justify-content: center;
   background-color: #527158;
+  color: #ffffff;
 }
 
 .faq .content-wrapper {
