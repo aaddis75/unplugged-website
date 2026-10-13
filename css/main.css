@@ -561,6 +561,17 @@ input[type="button"] {
   }
   /*Hero Area*/
 
+  .hero-area {
+    min-height: 600px;
+  }
+
+  .hero-area h1 {
+    font-size: 3em;
+    line-height: 1;
+    font-family: "Poppins", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+  }
+
   /*Aside*/
 
   aside .content-wrapper {
@@ -586,7 +597,8 @@ input[type="button"] {
   }
 
   .features .features-item-description {
-    width: 50%;
+    width: 75%;
+
   }
 
   .features .fontawesome-icons {
